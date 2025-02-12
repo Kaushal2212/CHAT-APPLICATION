@@ -1,7 +1,7 @@
 # CHAT-APPLICATION
 This is a simple chat system implemented using Socket.io and Node.js. The project provides a real-time messaging platform where users can join chat rooms and communicate with each other.<br/>
 Features
-________________________________________________________________________________________________________________________________________________________________________________________________<br/>
+___________________________________________________________________________________________________________________________________<br/>
 - Real-time messaging: Users can send and receive messages in real time, creating a seamless chat experience.<br/>
 - Multiple chat rooms: Users have the option to select different chat rooms based on their preferences.<br/>
 - Private messaging: The system supports private messaging between users, allowing for one-on-one conversations.<br/>
