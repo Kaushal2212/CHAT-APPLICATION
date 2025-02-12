@@ -10,15 +10,19 @@ This is a simple chat system implemented using Socket.io and Node.js. The projec
   - Responsive design: Works on all devices.<br>
 </p>
 
-Technologies Used<br/>
-___________________________________________________________________________________________________________<br/>
-- Socket.io: A JavaScript library for real-time, bidirectional communication between web clients and servers.
-- Node.js: A JavaScript runtime environment that allows running JavaScript on the server-side.
-- HTML/CSS: The standard markup language and styling for building the user interface.
-- Git: A version control system for tracking changes in the project.
-Getting Started<br/>
-____________________________________________________________________________________________________________<br/>
-- Clone the repository: https://github.com/Kaushal2212/CHAT-APPLICATION
-- Install the dependencies: npm install
-- Start the server: npm start
-- Access the chat system in your web browser: http://localhost:3000
+<p >
+  <balign="center">Technologies Used</b><br>
+  - Socket.io: A JavaScript library for real-time, bidirectional communication between web clients and servers.<br>
+  - Node.js: A JavaScript runtime environment that allows running JavaScript on the server-side.<br>
+  - HTML/CSS: The standard markup language and styling for building the user interface.<br>
+  - Git: A version control system for tracking changes in the project.<br>
+</p>
+
+<p>
+  <b align="center">Getting Started</b><br>
+  - Clone the repository: <code>git clone https://github.com/Kaushal2212/CHAT-APPLICATION</code><br>
+  - Install dependencies: <code>npm install</code><br>
+  - Start the server: <code>npm start</code><br>
+  - Access the chat system: Open <a href="http://localhost:3000">http://localhost:3000</a> in your web browser.<br>
+</p>
+
