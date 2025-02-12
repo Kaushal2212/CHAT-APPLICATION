@@ -10,7 +10,7 @@ ________________________________________________________________________________
 - Responsive design: The chat system is designed to work on various devices and screen sizes.<br/>
 Technologies Used<br/>
 ___________________________________________________________________________________________________________________________________<br/>
-Socket.io: A JavaScript library for real-time, bidirectional communication between web clients and servers.
-Node.js: A JavaScript runtime environment that allows running JavaScript on the server-side.
-HTML/CSS: The standard markup language and styling for building the user interface.
-Git: A version control system for tracking changes in the project.
+- Socket.io: A JavaScript library for real-time, bidirectional communication between web clients and servers.
+- Node.js: A JavaScript runtime environment that allows running JavaScript on the server-side.
+- HTML/CSS: The standard markup language and styling for building the user interface.
+- Git: A version control system for tracking changes in the project.
