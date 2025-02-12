@@ -14,3 +14,9 @@ ________________________________________________________________________________
 - Node.js: A JavaScript runtime environment that allows running JavaScript on the server-side.
 - HTML/CSS: The standard markup language and styling for building the user interface.
 - Git: A version control system for tracking changes in the project.
+Getting Started<br/>
+___________________________________________________________________________________________________________________________________<br/>
+- Clone the repository: https://github.com/Kaushal2212/CHAT-APPLICATION
+- Install the dependencies: npm install
+- Start the server: npm start
+- Access the chat system in your web browser: http://localhost:3000
